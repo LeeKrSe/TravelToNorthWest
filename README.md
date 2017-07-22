@@ -145,7 +145,7 @@
 
 ![兰州第一面](https://raw.githubusercontent.com/LeeKrSe/TravelToNorthWest/master/photo/xibei/08/shuishang03.jpg "鸿宾楼")
 
-![兰州第一面](https://raw.githubusercontent.com/LeeKrSe/TravelToNorthWest/master/photo/xibei/08/shuishang04.jpg "鸿宾楼")
+![兰州第一面](https://raw.githubusercontent.com/LeeKrSe/TravelToNorthWest/master/photo/xibei/08/shuishang04.jpeg "鸿宾楼")
 
 从水上雅丹出来，轻车熟路的季师傅带我们来到了另一处雅丹地貌——青海魔鬼城。没有湖泊，这里的雅丹显得格外阴森，像猫头鹰，像大猩猩，一个个山丘朝着相同的方向，仿佛一群正赴宴的魔鬼。往深处走了约五百米，季师傅说不能再走了，走远了，遇到了狼就危险了。
 
