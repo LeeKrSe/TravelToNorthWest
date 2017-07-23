@@ -1,5 +1,8 @@
 # 西北环游记
 ## 写在前面
+
+[原文链接](http://krselee.com/article/northwest)
+
 此次西北之行是我们实验室（浙江大学软件学院2015级S310室）的毕业旅行，全程人均约5000，其中从杭到兰州、兰州返程、兰州西宁往返约1300，在外游玩共15天，包车10天，15天花费约3700。  
         
 ![路线](https://raw.githubusercontent.com/LeeKrSe/TravelToNorthWest/master/photo/xibei/content.png "路线图")
